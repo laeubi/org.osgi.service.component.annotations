@@ -15,7 +15,7 @@ corrections are welcome — please open a pull request.
 
 | Project | Link | Notes |
 |---------|------|-------|
-| _none listed yet_ | | |
+| Eclipse PDE | [eclipse-pde/eclipse.pde](https://github.com/eclipse-pde/eclipse.pde/tree/master/ds/org.eclipse.pde.ds.annotations) | Processes the annotations in the Eclipse IDE and generates the Declarative Services component descriptions. Passes the OSGi 8.1 TCK. |
 
 ## Build
 
